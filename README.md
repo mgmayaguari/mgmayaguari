@@ -12,7 +12,7 @@
 
 [![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mayaguarimichael@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmayaguari/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white)]([https://michaelmayaguari.com](https://mgmayaguari.github.io/))&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=white)](https://mgmayaguari.github.io/)&nbsp;
 
 
 </div>
